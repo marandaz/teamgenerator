@@ -37,7 +37,7 @@
 ## About The Project
 <img src="/assets/employee.png"> 
 <br>
-The Team Generator is a command line application that prompts a user for info for team maangement 
+The Team Generator is a command line application that prompts a user for info for team management 
 
 
 ## Installation
