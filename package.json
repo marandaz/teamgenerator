@@ -1,0 +1,22 @@
+{
+  "name": "teamgenerator",
+  "version": "1.0.0",
+  "description": "team generator command line application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marandaz/teamgenerator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marandaz/teamgenerator/issues"
+  },
+  "homepage": "https://github.com/marandaz/teamgenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
